@@ -6,13 +6,37 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+<p align="center">
+  <img src="screenshots/login.png" width="250">
+  <img src="screenshots/products.png" width="250">
+  <img src="screenshots/product_details.png" width="250">
+  <img src="screenshots/favorites.png" width="250">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+### Login Screen
+
+![Login Screen](screenshots/login.png)
+
+### Products Screen
+
+![Products Screen](screenshots/product.png)
+
+### Product Details
+
+![Product Details](screenshots/productDetails.png)
+
+### Forgot Password
+
+![Forgot Password](screenshots/forgotPass.png)
+
+
+### Forgot Password
+
+![Products Screen - List](screenshots/product-list.png)
+
+
 # Shop-App---Mid-Exam
