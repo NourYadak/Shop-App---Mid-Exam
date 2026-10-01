@@ -10,9 +10,10 @@ This project is a starting point for a Flutter application.
 
 <p align="center">
   <img src="screenshots/login.png" width="250">
-  <img src="screenshots/products.png" width="250">
-  <img src="screenshots/product_details.png" width="250">
-  <img src="screenshots/favorites.png" width="250">
+  <img src="screenshots/product.png" width="250">
+  <img src="screenshots/productDetails.png" width="250">
+  <img src="screenshots/forgotPass.png" width="250">
+  <img src="screenshots/producr-list.png" width="250">
 </p>
 
 ## Screenshots
