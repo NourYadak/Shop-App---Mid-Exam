@@ -9,11 +9,10 @@
 <p align="center">
   <img src="./lib/screenshots/splash.jpg" width="250" alt="Splash Screen">
   <img src="./lib/screenshots/login.jpg" width="250" alt="Login Screen">
-  <img src="./lib/screenshots/products.jpg" width="250" alt="Products Screen">
-  <img src="./lib/screenshots/productDetails.jpg" width="250" alt="Product Details">
   <img src="./lib/screenshots/forgotPass.jpg" width="250" alt="Forgot Password">
+  <img src="./lib/screenshots/products.jpg" width="250" alt="Products Screen">
   <img src="./lib/screenshots/product-list.jpg" width="250" alt="Products in List">
-
+  <img src="./lib/screenshots/productDetails.jpg" width="250" alt="Product Details">
 
 </p>
 
