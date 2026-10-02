@@ -5,7 +5,7 @@ class SplashCubit extends Cubit<SplashState> {
   SplashCubit() : super(SplashInitState());
 
   void goNextPage() async {
-    await Future.delayed(Duration(seconds: 4));
+    await Future.delayed(Duration(seconds: 9));
     emit(SplashOnBoardPageState());
   }
 }
