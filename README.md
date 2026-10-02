@@ -1,8 +1,9 @@
 # shop_app
 <p align="left">
-Name: Nour Ibrahim Yadak
-Project: Shop App for Mid Exam
+  <strong>Name:</strong> Nour Ibrahim Yadak<br>
+  <strong>Project:</strong> Shop App for Mid Exam
 </p>
+
 ## Screenshots Shop-App-Mid-Exam
 
 <p align="center">
