@@ -1,6 +1,7 @@
 # shop_app
 
-A new Flutter project.
+Name: Nour Ibrahim Yadak
+Project: Shop App for Mid Exam
 
 ## Screenshots Shop-App-Mid-Exam
 
